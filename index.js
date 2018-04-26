@@ -1,3 +1,5 @@
+// My javascript practice section :-)
+
 var students = [
 	{"name": "Amanda","grade":"C","contact":["646-334-8787","NY"]},
 	{"name": "Britney","grade":"B","contact":["894-388-2718","PA"]},
