@@ -4,3 +4,10 @@ var students = [
 	{"name": "Christian","grade":"A","contact":["929-039-5959","CA"]},
 	{"name": "Oscar","grade":"B","contact":["139-653-2020","NJ"]}
 ];
+function openav(){
+    	document.getElementById("nav").style.width= "100%";
+    }
+    
+    function clsnav(){
+    	document.getElementById("nav").style.width= "0%";
+    }
